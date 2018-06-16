@@ -1,0 +1,186 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+	margin: 0 auto;
+	padding: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	color: #000000;
+}
+body { background-color: #000000; }
+
+#Transparente {
+	position: absolute;
+	top: 180px;
+	left: 70px;
+}
+
+#Transparente2 {
+	position: absolute;
+	top: 180px;
+	left: 70px;
+}
+
+
+#Continuar {
+	position: absolute;
+	top: 420px;
+	left: 515px;
+	z-index: 4;
+}
+
+#Email {
+	position: absolute;
+	top: 290px;
+	left: 600px;
+	z-index: 4;
+}
+
+#Email2 {
+	position: absolute;
+	top: 290px;
+	left: 515px;
+	z-index: 4;
+}
+
+#Entrar {
+	position: absolute;
+	top: 44px;
+	left: 1112px;
+}
+
+#Entrar2 {
+	position: absolute;
+	top: 435px;
+	left: 760px;
+	z-index: 4;
+}
+
+#Entrar3 {
+	position: absolute;
+	top: 235px;
+	left: 650px;
+	z-index: 4;
+}
+
+#Registrar {
+	position: absolute;
+	top: 50px;
+	left: 950px;
+}
+
+#Registrar2 {
+	position: absolute;
+	top: 435px;
+	left: 435px;
+	z-index: 4;
+}
+
+#Senha {
+	position: absolute;
+	top: 340px;
+	left: 600px;
+}
+
+#Senha2 {
+	position: absolute;
+	top: 340px;
+	left: 515px;
+}
+
+#The_Best_Movie {
+	position: absolute;
+	top: 10px;
+	left: 420px;
+}
+
+
+
+
+
+#Comédias {
+	position: absolute;
+	top: 180px;
+	left: 70px;
+	z-index: 1;
+}
+
+#Policial {
+	position: absolute;
+	top: 180px;
+	left: 565px;
+	z-index: 2;
+}
+
+#Ação {
+	position: absolute;
+	top: 305px;
+	left: 565px;
+}
+
+#Ficção_Científica {
+	position: absolute;
+	top: 180px;
+	left: 810px;
+}
+
+#Terror {
+	position: absolute;
+	top: 305px;
+	left: 810px;
+}
+
+#Romance {
+	position: absolute;
+	top: 180px;
+	left: 1055px;
+}
+
+#Drama {
+	position: absolute;
+	top: 305px;
+	left: 1055px;
+}
+
+#Lançamentos {
+	position: absolute;
+	top: 440px;
+	left: 70px;
+}
+
+#Musicais {
+	position: absolute;
+	top: 440px;
+	left: 318px;
+}
+
+#Guerra {
+	position: absolute;
+	top: 440px;
+	left: 565px;
+}
+
+#Aventura {
+	position: absolute;
+	top: 565px;
+	left: 70px;
+}
+
+#Documentários {
+	position: absolute;
+	top: 565px;
+	left: 318px;
+}
+
+#Animações {
+	position: absolute;
+	top: 440px;
+	left: 810px;
+}
+
+#Suspense {
+	position: absolute;
+	top: 565px;
+	left: 565px;
+}
